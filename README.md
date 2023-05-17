@@ -1,5 +1,5 @@
 # Opize Project
-Opize에서 진행하는 프로젝트 리스트입니다!
+Opize에서 진행하는 프로젝트입니다. 각 프로젝트는 [opize](https://github.com/opize)와 [Hyunsdev](https://github.com/HyunsDev) 에서 관리합니다.
 
 |Project Name|링크|설명|
 |-|-|-|
